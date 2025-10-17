@@ -8,23 +8,21 @@ O projeto encontra-se em desenvolvimento, com links já configurados para futura
 
 Tecnologias Utilizadas
 
-HTML: Estrutura da página.
+- HTML: Estrutura da página.
 
-CSS: Estilização visual e responsiva.
+- CSS: Estilização visual e responsiva.
 
-JavaScript: em fase de desenvolvimento
+- JavaScript: em fase de desenvolvimento
 
 Estrutura e Funcionalidades
 
-Cabeçalho: Logotipo e menu de navegação com links para seções internas (em construção).
+- Cabeçalho: Menu de navegação com links para seções internas (em construção).
 
-Seção Principal: Como é ser um desenvolvedor.
-
-Rodapé: créditos do projeto.
+- Seção Principal: Como é ser um desenvolvedor.
 
 Como Utilizar
 
-Acesse a página através do link:
+- Acesse a página através do link:
 🔗 https://dev-desafio2.netlify.app
 
 O site ainda está em desenvolvimento. Algumas seções e links estão em fase de criação e integração.
